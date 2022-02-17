@@ -1,6 +1,0 @@
-line added to first file.
-This is test file for sample download
-D
-B
-C
-a.
